@@ -15,11 +15,22 @@ In dieser Lern-Periode möchte ich mein Wissen und Können zum Programmieren erw
 [x] Heute möchte ich noch gewisse Expertenziele von Modul 431 ab arbeiten. (1714, 1711, 1716)
 [ ] Heute möchte ich mir vornehmen was für ein Projekt möglich wäre umzusetzen während der Lern-Periode 2.
 
+# Reflexion
 Heute habe ich eigentlich die ganze Zeit an Modul 431 gearbeitet. Ich habe Aufträge welche mir noch übrig waren aus vergangenen Wochen nachgearbeitet und bin da sehr gut vorangekommen. Ich konnte die Aufträge 1731,1733,1728,1720 fertig machen und ich konnte auch alle vorgenommenen ExpertenZiele abschliessen. Also 1714, 1711 und 1716. Leider hat das ganze ziemlich viel Zeit in Anspruch genommen und deshalb bin ich leider nicht zum letzten Punkt also das Planen des Projektes gekommen.
 
 # Arbeitspakete für 31.10.23
 
-[ ] Ich werde mir überlegen und Planen was für ein Projekt ich beginnen könnte im Lern-Atelier.
+[x] Ich werde mir überlegen und Planen was für ein Projekt ich beginnen könnte im Lern-Atelier.
 [ ] Ich möchte an meinem Projekt aus Modul 319 recherchieren und mir nötiges Wissen anschaffen.
-[ ] Ich möchte nochmal das Thema Arrays aus Modul 319 zum Programmieren vertiefen.
-[ ] Ich möchte mich mit dem Debugging von Codes vertrauter machen.
+[x] Ich möchte nochmal das Thema Arrays aus Modul 319 zum Programmieren vertiefen.
+[x] Ich möchte mich mit dem Debugging von Codes vertrauter machen.
+
+# Reflexion
+Heute habe ich ziemlich lange überlegen müssen, was für ein Projekt ich machen könnte. Dann haben Mert, Leandro, Finn und ich beschlossen, eine Website mit/auf HMTL zu erstellen. Wir haben dann jedoch erfahren, dass es evt schlauer wäre ein Projekt in C# zu machen da wir dort noch mehr Übung brauchen. Wenigstens habe ich jetzt schonmal eine Idee für ein zukünftiges Projekt. Ich musste also erneut ein weiteres Projekt suchen, welches ich interessant finde und wurde dann fündig. Ich habe mich entschieden, Ein Programm zu entwickeln, in dem ich Notizen einschreiben, speichern etc. kann. Ebenfalls habe ich eine Projektplanung auf Word geschrieben, welche Themen in meinem Projekt enthalten sein sollen. Nebenbei da ich dies auch für mein Notizen Projekt brauchen werde, habe ich nochmal die Arrays aus Modul 319, wie auch das Debugging angeschaut.
+
+
+# Arbeitspakete für 7.11.2023
+
+[ ] Ich werde zu meinem "Notizen Projekt" recherchieren um mir nötiges Fachwissen anzuschaffen.
+[ ] Ich werde die ersten paar Codes für mein Projekt anfangen zu schreiben.
+[ ] Ich werde eine Planung zur Gestaltung meines Projektes über ein Schulfach bei Fr. Rieder, anfangen zu schreiben.

@@ -31,6 +31,18 @@ Heute habe ich ziemlich lange überlegen müssen, was für ein Projekt ich mache
 
 # Arbeitspakete für 7.11.2023
 
-[ ] Ich werde zu meinem "Notizen Projekt" recherchieren um mir nötiges Fachwissen anzuschaffen.
-[ ] Ich werde die ersten paar Codes für mein Projekt anfangen zu schreiben.
-[ ] Ich werde eine Planung zur Gestaltung meines Projektes über ein Schulfach bei Fr. Rieder, anfangen zu schreiben.
+[x] Ich werde zu meinem "Notizen Projekt" recherchieren um mir nötiges Fachwissen anzuschaffen.
+[x] Ich werde die ersten paar Codes für mein Projekt anfangen zu schreiben.
+[x] Ich werde eine Planung zur Gestaltung meines Projektes über ein Schulfach bei Fr. Rieder, anfangen zu schreiben.
+
+
+# Reflexion
+
+Heute habe ich sehr viel Theorie aus Modul 319 repetiert und durchgeschaut, um mir das Programmieren zu vertiefen. Ich habe ebenfalls durch viel Recherche andere Befehle in C# kennengelernt. Ebenfalls habe ich mir notiert wie ich vorgehen werde im Projekt bei Frau Rieder. In meinem Projekt im Lern-Atelier habe ich mir eine Grob-Planung gemacht in welcher ich festhalte welche Punkte in meinem Code vorhanden sein sollen. Dann habe ich angefangen mir zu überlegen und schriftlich festzuhalten was für Befehle ich in C# verwenden muss/kann um diese Punkte entsprechend umzusetzen. Ebenfalls habe ich bereits angefangen die ersten Paar Zeilen zu schreiben in meinem Code.
+
+
+# Arbeitspakete für 14.11.2023
+
+[] Ich werde im Code meines Programmierprojektes im Lernatelier weiterschreiben.
+[] Ich werde anfangen, in meiner Gruppe den Code vom Projekt bei Frau Rieder zu schreiben.
+[] Ich möchte evt mein Projekt im Lern-Atelier erweitern.

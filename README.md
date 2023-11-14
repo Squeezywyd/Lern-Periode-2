@@ -43,6 +43,11 @@ Heute habe ich sehr viel Theorie aus Modul 319 repetiert und durchgeschaut, um m
 
 # Arbeitspakete für 14.11.2023
 
-[] Ich werde im Code meines Programmierprojektes im Lernatelier weiterschreiben.
-[] Ich werde anfangen, in meiner Gruppe den Code vom Projekt bei Frau Rieder zu schreiben.
+[x] Ich werde im Code meines Programmierprojektes im Lernatelier weiterschreiben.
+[x] Ich werde anfangen, in meiner Gruppe den Code vom Projekt bei Frau Rieder zu schreiben.
 [] Ich möchte evt mein Projekt im Lern-Atelier erweitern.
+
+
+# Reflexion
+
+Heute habe ich 

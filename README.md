@@ -50,4 +50,12 @@ Heute habe ich sehr viel Theorie aus Modul 319 repetiert und durchgeschaut, um m
 
 # Reflexion
 
-Heute habe ich 
+Heute habe ich hauptsächlich programmiert. Ich habe zuerst zusammen mit Mert und Leandro in unserem Projekt gearbeitet und wir sind dort sehr gt vorangekommen. Wir haben bereits alle Gschäftsfälle (von unserem Thema) notieren und im Code festhalten können. Und es war möglich unseren Code so zu programmieren dass uns diese 30 Geschäftfälle zufällg ausgegeben werden. Ebenfalls haben wir begonnen uns zu informieren wie man eine Auswahlliste in C# erstellt. 
+Anschliessend haben wir jedoch aufgehört nachdem wir das 2. Mal Pause gemacht haben. Deshalb konnte ich mich an mein eigenes Projekt wenden und dort für den Anfang fasst ales zu programmieren. Ich finde ich konnte heute sehr gut und konzentriert arbeiten und bin zufrienden wie weit ich gekommen bin.
+
+
+# Arbeitspakete für 21.11.2023
+
+[] Mein Projekt im Lern-Atelier überarbeiten und nach Fehlern oder Verbesserungspotential im Code suchen.
+[] Am Gruppenprojekt weiter arbeiten und unseren Code grösstenteiles fertigstellen. 
+[] Mein Projekt im Lern-Atelier erweitern.

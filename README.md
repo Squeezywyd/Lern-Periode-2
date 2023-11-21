@@ -57,5 +57,20 @@ Anschliessend haben wir jedoch aufgehört nachdem wir das 2. Mal Pause gemacht h
 # Arbeitspakete für 21.11.2023
 
 [] Mein Projekt im Lern-Atelier überarbeiten und nach Fehlern oder Verbesserungspotential im Code suchen.
-[] Am Gruppenprojekt weiter arbeiten und unseren Code grösstenteiles fertigstellen. 
+[x] Am Gruppenprojekt weiter arbeiten und unseren Code grösstenteiles fertigstellen. 
 [] Mein Projekt im Lern-Atelier erweitern.
+
+# Reflexion
+
+Heute habe ich hauptsächlich nur an unserem Code für das Programmierprojekt bei Fr. Rieder gearbeitet. Wir haben am Freitag das Gespräch mit Herr Olivito geführt und konnten da Fragen stellen wie er sich das Endprodukt vorgestellt hätte und er hatte sehr komplizierte Anforderungen weshalb mein Fokus momentan auf diesem Projekt liegt anstatt auf dem vom Lern-Atelier. Und zwar möchte Herr Olivito, dass er in einer Konsole einen Buchungssatz eingeben kann und wenn dann zB. Schüler die Konsole öffnen, wird ihnen die Eingabe von Herr Olivito angezeigt und sie antworten auf diesen Buchungssatz mit einer Auswahlliste mit den passenden Fällen für den Buchungssatz. Ebenfalls hätte er gerne das wir noch anschliessend eine Statistik programmieren, welche anzeigt was falsch war beim lösen seiner Buchungssätze und wo die Schwierigkeiten liegen. 
+Wir haben diesen Auftrag sehr kompliziert gefunden da diese Anforderungen weit über unser bisheriges Niveau hinausgehen. Deshalb widmen wir die meiste Zeit nun diesem Projekt. Somit ist unsere Arbeit von gestern und heute zu einem sehr grossen Teil aus Recherche bestanden. Jedoch habe ich passende Infos gefunden und Tutorials und mir ist es nun gelungen einen TCP-Server zu erstellen. Ebenfalls habe ich heute den Code für den TCP-Client geschrieben und es ist nun möglich dass auf diesen zwei verschiedenen Konsolen, miteinander kommuniziert werden kann und sie sich miteinander verbinden. Das macht mich extrem glücklich denn ich hatte nicht damit gerechnet dass dies klappen würde deshalb bin ich unglaublich fest zufrieden mit meiner Arbeit heute.
+
+Codes:
+[Test_TCPServer.zip](https://github.com/Squeezywyd/Lern-Periode-2/files/13424936/Test_TCPServer.zip)
+[Test_TCPClient.zip](https://github.com/Squeezywyd/Lern-Periode-2/files/13424935/Test_TCPClient.zip)
+
+# Arbeitspakete für 28.11.2023
+
+[] Mein Projekt im Lern-Atelier überarbeiten und nach Fehlern oder Verbesserungspotential im Code suchen.
+[] Recherche zum Programmierprojekt von Herr Olivito. (Wie man den Code für die Buchunssätze so in den Server Code integrieren kann, dass es möglich ist den Benutzer(client) abzufragen)
+[] Den Code entsprechend der Recherche weiter schreiben.

@@ -72,5 +72,16 @@ Codes:
 # Arbeitspakete für 28.11.2023
 
 [] Mein Projekt im Lern-Atelier überarbeiten und nach Fehlern oder Verbesserungspotential im Code suchen.
-[] Recherche zum Programmierprojekt von Herr Olivito. (Wie man den Code für die Buchunssätze so in den Server Code integrieren kann, dass es möglich ist den Benutzer(client) abzufragen)
-[] Den Code entsprechend der Recherche weiter schreiben.
+[x] Recherche zum Programmierprojekt von Herr Olivito. (Wie man den Code für die Buchunssätze so in den Server Code integrieren kann, dass es möglich ist den Benutzer(client) abzufragen)
+[x] Den Code entsprechend der Recherche weiter schreiben.
+ 
+# Reflexion
+
+Heute war mein hauptsächlicher Fokus wieder auf dem Projekt von Herr Olivito, da wir unser Projekt nächste Woche abgeben müssen. Wir haben gestern das ganze mit Frau Rieder angeschaut und sie war beeindruckt von meinem Code für den TCPServer. Jedoch meinte sie dass es nun etwas zu kompliziert wäre, wenn wir jetzt noch das ganze so umschreiben würden, dass ein Programm entsprechend den Wünschen von Herr Olivito ensteht. Somit haben wir uns für eine einfachere Methode entschieden in welcher wir mit dem Code, Zeilen aus einer Text-Datei lesen können und diese in der Konsole wiedergegeben werden. 
+Da ich jedoch meine ganze Mühe für den Server-Code nicht einfach hinschmeissen möchte, habe ich mich dazu entschieden ein Projekt daraus für das Lern-Atelier zu machen. Ich möchte das ganze erweitern und verfeinern. Mein Ziel ist es, dass man schlussendlich zwischen den beiden Konsolen kommunizieren kann, ähnlich zu einer "Chat-App" jedoch einiges simpler. Dazu entschieden habe ich mich weil mein Notizenverwaltungs-Projekt fast fertig ist und mir noch genug Zeit übrig bleibt.
+
+# Arbeitspakete für 05.12.2023
+
+[] Meinen Server Code so erweitern, dass es möglich ist eine Verbindung zwischen verschiedenen Geräten herzustellen bzw. unterschiedlichen Computern.
+[] Mein Notizverwaltungsprojekt fertigstellen (letzte Verfeinerungen)
+[] Server-Code überarbeiten falls nötig und erweitern.

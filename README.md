@@ -83,5 +83,10 @@ Da ich jedoch meine ganze Mühe für den Server-Code nicht einfach hinschmeissen
 # Arbeitspakete für 05.12.2023
 
 [] Meinen Server Code so erweitern, dass es möglich ist eine Verbindung zwischen verschiedenen Geräten herzustellen bzw. unterschiedlichen Computern.
-[] Mein Notizverwaltungsprojekt fertigstellen (letzte Verfeinerungen)
+[x] Mein Notizverwaltungsprojekt fertigstellen (letzte Verfeinerungen)
 [] Server-Code überarbeiten falls nötig und erweitern.
+
+
+# Reflexion 
+
+Heute habe ich sehr lange an meinem Projekt mit dem Server gearbeitet, jedoch ohne grossen Erfolg. Ich habe versucht, eine geräteübergreifende Verbindung zu erstellen, dies war jedoch nicht erfolgreich. Ich habe sehr viel recherchiert heute und habe meistens nur Informationen bekommen, dass man etwas in den Firewall-Einstellungen ändern müsse. Dies habe ich sogar versucht und habe neue Regeln in den Einstellungen für die Firewall erstellt. Als ich schlussendlich versucht habe, die beiden Konsolen auf unterschiedlichen Geräten zu öffnen, wurde mir nur eine leere Konsole angezeigt. Somit konnte ich in diesem Projekt leider nicht weiter machen. Aber dafür konnte ich heute mein Notizen-Projekt endgültig fertigstellen. 

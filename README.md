@@ -93,7 +93,19 @@ Heute habe ich sehr lange an meinem Projekt mit dem Server gearbeitet, jedoch oh
 
 # Arbeitspakete für 12.12.2023
 
-[] Mein Server Projekt erweitern also mehr Funktionen hinzufügen. (Antworten auf Fragen und Wahrheitsprüfung)
-[] Recherche zu meinem Projekt ( wie ich code Teile so einfüge dass sie auf der anderen Konsole angezeigt werden.)
-[] Repetition von Themen aus Modul 117
+[x] Mein Server Projekt erweitern also mehr Funktionen hinzufügen. (Antworten auf Fragen und Wahrheitsprüfung)
+[x] Recherche zu meinem Projekt ( wie ich code Teile so einfüge dass sie auf der anderen Konsole angezeigt werden.)
+[x] Für Modul 162 Datenschutz anschauen/lernen für Prüfung
+
+
+# Reflexion
+
+Heute habe ich wieder viel für meinen Server Code recherchuert. Ich habe mich dazu entschieden, dass ich meinen Code nicht erweitere, so dass die Komunnikation über verschieden Geräte möglich ist, da ich da noch etwas abwarten muss bis wir das Thema mit Neztzwerken im Modul 117 vertieft habe. Somit habe ich mich dazu entschieden, dass ich einfach die Kommunikation auf meinem Gerät lokal ermögliche. Ich hab den Code so angepasst, dass nun die Kommunikation möglich ist und man sozusagen ein Gespräch führen kann. Ebenfalls habe ich noch für die Modulprüfung am Mittwoch (M162) gelernt.
+
+
+# Arbeitspakete für 19.12.2023
+
+[] Meinen Server Code verschönern.(Anordnung)
+[] Meinen Code fertigstellen.
+[] Themen aus Modul 117 repetieren und vertiefen.
 

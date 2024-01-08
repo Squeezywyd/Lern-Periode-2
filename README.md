@@ -102,6 +102,19 @@ Heute habe ich sehr lange an meinem Projekt mit dem Server gearbeitet, jedoch oh
 
 Heute habe ich wieder viel für meinen Server Code recherchuert. Ich habe mich dazu entschieden, dass ich meinen Code nicht erweitere, so dass die Komunnikation über verschieden Geräte möglich ist, da ich da noch etwas abwarten muss bis wir das Thema mit Neztzwerken im Modul 117 vertieft habe. Somit habe ich mich dazu entschieden, dass ich einfach die Kommunikation auf meinem Gerät lokal ermögliche. Ich hab den Code so angepasst, dass nun die Kommunikation möglich ist und man sozusagen ein Gespräch führen kann. Ebenfalls habe ich noch für die Modulprüfung am Mittwoch (M162) gelernt.
 
+# Arbeitspakete für 19.12.2023
+
+[] Für Modul 162 Prüfung vorbereiten.
+[] Das Programmierprojekt bei Frau Rieder mit dem Auftraggeber besprechen und Feedback einholen.
+[] Das Programmierprojekt verbessern falls der Wunsch darauf besteht.
+
+# Reflexion
+
+Heute habe ich sehr viel Zeit ins vorbereiten und lernen für die Prüfung aus dem Modul 162 investiert. Ich bin nochmals gründlich alle Themen und Präsentationen durchgegangen um sicherzustellen dass ich alles wirklich gut kann und auch verstehe. 
+
+Nach dem Gespräch: Ich habe gemeinsam mit meiner Gruppe Feedback vom Auftraggeber für unser Projekt eingeholt. Die Rückmeldung war sehr gut und hat uns viel weitergeholfen. Wir haben gutes und ehrliches Feedback bekommen wie auch Tipps und Verbesserungsvorschläge für zukünftige Projekte.
+Eine Verbesserung ist jedoch nicht gewünscht/eingeplant.
+
 
 # Arbeitspakete für 19.12.2023
 
